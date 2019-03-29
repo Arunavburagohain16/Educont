@@ -14,4 +14,4 @@ coverImage: ''
 ---
 Testing
 
-!\[alt text](https://miro.medium.com/max/854/1*WgROsTKa6diRYTG5K0R5mw.jpeg)
+![alt text](https://miro.medium.com/max/854/1*WgROsTKa6diRYTG5K0R5mw.jpeg)
