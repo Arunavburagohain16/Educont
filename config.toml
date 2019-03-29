@@ -1,6 +1,6 @@
 baseurl = "https://www.example.com"
 languageCode = "en"
-title = "Hugo Kiss theme"
+title = "শ্রেণীকক্ষ"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
 disqusShortname = "shortname"
@@ -38,10 +38,10 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 
 [params.social]
 
-twitter = "ribicemir"
-github = "ribice"
+twitter = ""
+github = ""
 email = "ribice@gmail.com"
-linkedin = "ribice"
+linkedin = "+ribice"
 gitlab = "ribice"
 instagram = ""
 codepen = ""
