@@ -7,14 +7,10 @@ tags:
 ---
 Shrimanta Shankar Academy
 
-Girijananda Choudhury Complex
+Girijananda Choudhury Complex, G S Road, Dispur, Guwahati - 781006, Assam
 
-G S Road, Dispur
+Phone  : 0361-2267768 / 2231047
 
-Guwahati - 781006, Assam
+E-mail  : ssadispur6@gmail.com
 
-Phone  : 0361-2267768 / 2231047
-
-E-mail  : ssadispur6@gmail.com
-
-School Office Timings : 9 am - 3 pm
+School Office Timings : 9 am - 3 pm
