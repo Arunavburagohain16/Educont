@@ -1,4 +1,4 @@
-baseurl = "google.com"
+baseurl = "https://edusite.netlify.com/"
 languageCode = "en"
 title = "শ্রেণীকক্ষ"
 theme = "kiss"
