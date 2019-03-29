@@ -1,6 +1,6 @@
 baseurl = "https://edusite.netlify.com/"
 languageCode = "en"
-title = "শ্রেণীকক্ষ"
+title = "শ্ৰীমন্ত শঙ্কৰ একাডেমি"
 theme = "kiss"
 copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
 disqusShortname = "shortname"
