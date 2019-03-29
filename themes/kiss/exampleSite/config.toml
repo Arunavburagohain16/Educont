@@ -1,4 +1,4 @@
-baseurl = "https://edusite.netlify.com/https://www.example.com"
+baseurl = "https://www.example.com"
 languageCode = "en"
 title = "Hugo Kiss theme"
 theme = "kiss"
