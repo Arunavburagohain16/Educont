@@ -9,7 +9,9 @@ tags:
   - photo
 autoThumbnailImage: true
 thumbnailImagePosition: top
-thumbnailImage: /images/uploads/45940_sky_aurora.jpg
+thumbnailImage: ''
 coverImage: ''
 ---
 Testing
+
+!\[alt text](https://miro.medium.com/max/854/1*WgROsTKa6diRYTG5K0R5mw.jpeg)
