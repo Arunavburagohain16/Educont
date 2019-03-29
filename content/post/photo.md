@@ -8,7 +8,7 @@ tags:
   - শ্রেণীকক্ষ
   - photo
 autoThumbnailImage: true
-thumbnailImagePosition: right
+thumbnailImagePosition: top
 thumbnailImage: /images/uploads/45940_sky_aurora.jpg
 coverImage: ''
 ---
