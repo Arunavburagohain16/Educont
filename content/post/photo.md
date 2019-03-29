@@ -7,6 +7,9 @@ categories:
 tags:
   - শ্রেণীকক্ষ
   - photo
+autoThumbnailImage: true
+thumbnailImagePosition: right
 thumbnailImage: /images/uploads/45940_sky_aurora.jpg
+coverImage: ''
 ---
 Testing
