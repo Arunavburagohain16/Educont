@@ -10,8 +10,8 @@ tags:
 ---
 SSA-1
 
-!\[alt text](http://www.ssa-school.org/admin/UPLOADS/oath/1.jpeg)
+![alt text](http://www.ssa-school.org/admin/UPLOADS/oath/1.jpeg)
 
 SSA-2
 
-!\[alt text](https://nenow.in/wp-content/uploads/2018/04/Shrimanta-Shankar-Academy.-Photo-Facebook.jpg)
+![alt text](https://nenow.in/wp-content/uploads/2018/04/Shrimanta-Shankar-Academy.-Photo-Facebook.jpg)
